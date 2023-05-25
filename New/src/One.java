@@ -27,5 +27,6 @@ public class One {
 		System.out.println(a.a(20, 20));
 		F f=new F();
 		System.out.println(f.a(20, 30));
+		System.out.println(f.a(10, 10));
 	}
 }
